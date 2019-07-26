@@ -43,7 +43,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="@string/Semester"
+        android:text="@string/CourseTitle"
         android:gravity="center_vertical|center_horizontal"
         android:textColor="@color/ustgold"
         android:textSize="14pt"
@@ -52,7 +52,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" 
-        android:text="@string/Semester"/>
+        android:text="@string/Semester"
         android:gravity="center_vertical|center_horizontal"
         android:textColor="#aaaaaa"
         android:textSize="16pt"
