@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Welcome4521</string>
+    <string name="app_name">Course Info COMP4521</string>
+    <string name="Welcome">Welcome to</string>
+    <string name="CourseCode">COMP4521</string>
+    <string name="CourseTitle">Embedded System Software</string>
+    <string name="Semester">Spring 2012</string>
 </resources>

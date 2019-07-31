@@ -1,4 +1,4 @@
-package com.example.welcome4521;
+package com.example.welcome;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.welcome4521", appContext.getPackageName());
+        assertEquals("com.example.hkust.com.example.com.example.com.example.welcome", appContext.getPackageName());
     }
 }

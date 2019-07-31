@@ -1,4 +1,4 @@
-package com.example.welcome4521;
+package com.example.welcome;
 
 import org.junit.Test;
 
